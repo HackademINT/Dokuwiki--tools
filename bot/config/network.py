@@ -11,5 +11,5 @@ subnets = [{'subnet': '10.10.10.0/24', 'vmbr': 'vmbr0',
            {'subnet': '10.33.0.16/24', 'vmbr': 'vmbr1337', 
             'username': 'deploy', 'description': 'cluster docker'}]
 password = None 
-key_filename = './config/id_rsa'
+key_filename = 'bot/config/id_rsa'
 timeout = 2
