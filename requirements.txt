@@ -1,3 +1,4 @@
 multiPing
 netaddr
 netifaces
+paramiko
